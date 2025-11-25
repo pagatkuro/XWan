@@ -18,7 +18,7 @@ Karena tool ini berbasis CLI dan dijalankan untuk android dengan termux maka ada
 - Tool ini belum bisa bypass DNS menggunakan DoH (DNS Over HTTPS) ataupun DoT (DNS Over TLS)
 - Belum bisa melakukan Fake DNS
 ## Cara Install
-Tool ini khusus untuk android dan saran saya menggunakan termux.
+Tool ini khusus untuk android dengan arsitektur (arm64) dan saran saya menggunakan termux.
 - Masuk termux dan masukan command berikut secara berurutan:
 ```
 pkg update && pkg upgrade
@@ -52,4 +52,3 @@ python xwan.py
 - Selamat menggunakan toolsnya >_<
 # Syarat dan Ketentuan Layanan
 Pengguna yang memanfaatkan alat ini setuju untuk mematuhi semua hukum yang berlaku dan melepas tanggung jawab pengembang dari klaim apa pun yang muncul akibat penggunaannya.
-
