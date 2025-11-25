@@ -41,6 +41,7 @@ chmod +x install.sh
 ```
 ./install.sh
 ```
+- Jika ada pertanyaan replace. Ketik y lalu enter.
 ```
 nano list.txt
 ```
@@ -48,3 +49,7 @@ nano list.txt
 ```
 python xwan.py
 ```
+- Selamat menggunakan toolsnya >_<
+# Syarat dan Ketentuan Layanan
+Pengguna yang memanfaatkan alat ini setuju untuk mematuhi semua hukum yang berlaku dan melepas tanggung jawab pengembang dari klaim apa pun yang muncul akibat penggunaannya.
+
