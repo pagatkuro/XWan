@@ -10,8 +10,10 @@ Alat yang berfungsi untuk mengecek website/ip address yang bisa digunakan untuk 
 ## Kelebihan
 - Aman karena tidak akan meyimpan log akun anda karena tool ini open source
 - Multi protocol support seperti VMess,Trojan, VLess
+- Bisa menggunakan SSH Websocket
+- Support metode Wilcard dan SNI
 - Dapat melalukan cek secara bersamaan
-- Tool bekerja secara cepat dan dapat membantu anda mencari address yang cocok
+- Tool bekerja secara cepat dan dapat membantu anda mencari web/ip yang cocok untuk injeksi kuota
 - Konfigurasi fleksibel untuk Websocket/TCP, TLS/Non TLS
 ## Akurat
 Tool ini memiliki keakuratan 90% jadi sangat membantu anda untuk mencari alamat web/ip yang cocok untuk melakukan injeksi sesuai dengan kuota yang anda gunakan. Gunakan saat tidak ada kuota reguler dan hanya ada kuota yang mau di injeksi.
